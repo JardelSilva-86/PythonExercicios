@@ -20,8 +20,7 @@ segundoNum = input('Segundo número =')
 soma = int(primeiroNum) + int(segundoNum)
 print('A soma é {}.'.format(soma))
 
-### Crie um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo
-### e todas as informações possíveis sobre ele.
+### Crie um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 print('=' * 7 DESAFIO 4 '=' * 7)
 n1 = input('Digite algo = ')
 print('O tipo primitivo desse valor é {}'.format(type(n1)))

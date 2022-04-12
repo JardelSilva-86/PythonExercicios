@@ -1,5 +1,6 @@
 # Crie um programa que pergunte ao usuário a quantidade de KM percorridos por um carro alugado. Pergunte quantos dias esse carro foi alugado. Calcule o preço total a pagar pelo aluguel. Considerando a diária custa R$ 60 e o KM rodado custa R$ 0,15.
 
+print('=-'*7, 'DESAFIO 10', '=-'*7)
 diaria = 60
 custo_km = 0.15
 dia_alug = int(input("Quantos dias o carro será alugado? "))

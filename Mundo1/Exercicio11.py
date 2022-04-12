@@ -1,3 +1,5 @@
+# Escreva um programa que leia um valor em metros e o exiba convertido em centimetros e milimetros
+
 print('=-'*7, 'DESAFIO 11', '=-'*7)
 metro = float(input("Digite um distância em metros: "))
 print("A conversão da distância {} metros é equivalente a: ".format(metro))
